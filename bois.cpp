@@ -19,9 +19,9 @@ main(){
 	
 	media = total / bois;
 	
-	printf("\nA média de peso dos bois = %f", media);
+	printf("\nA mï¿½dia de peso dos bois = %f", media);
 	
 	arrobas = total / 15;
-	
+	//teste
 	printf("\nO peso em % = %f", arrobas);
 }
